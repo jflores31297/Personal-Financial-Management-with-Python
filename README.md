@@ -18,7 +18,6 @@ To run the notebook, ensure you have the following installed:
 	•	Required Python libraries:
 	•	pandas
 	•	matplotlib
-	•	seaborn or other visualization libraries for enhanced visual output.
 
 ### How to Use
 
